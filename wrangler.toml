@@ -2,3 +2,6 @@ name = "euimob-help-center-auth"
 main = "src/index.js"
 compatibility_date = "2023-03-24"
 keep_vars = true
+
+[vars]
+ALLOWED_DOMAINS = "ajuda.euimob.com.br"
